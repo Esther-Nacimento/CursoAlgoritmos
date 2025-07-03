@@ -35,8 +35,8 @@ Inicio
       mediaIdades <- (idade1 + idade2) / 2 // Processamento de dados
       
       //    Saida de dados
-      escreval("A idade media de ", nome1, " e ", nome2, " é de ", mediaIdades, " anos.")
-      
+      escreval("A idade media de ", nome1, " e ", nome2, " é de ", mediaIdades:2:1, " anos.")
+
       
 
 
